@@ -2,7 +2,7 @@
 title: "Project management in bioinformatics"
 author: "Fabrício de Almeida Silva"
 institute: "PGBV/UENF"
-date: "`r Sys.Date()`"
+date: "March 2, 2021"
 output:
   xaringan::moon_reader:
     includes:
