@@ -396,7 +396,7 @@ class: sydney-yellow, middle, center
 
 `r icon::fontawesome("github")`  [almeidasilvaf](https://github.com/almeidasilvaf/)
 
-`r icon::fontawesome("globe")`  [almeidasilvaf.github.io/almeida-silvaf](https://almeidasilvaf.github.io/almeida-silvaf/)
+`r icon::fontawesome("globe")`  [almeidasilvaf.github.io/home](https://almeidasilvaf.github.io/home/)
 
 `r icon::fontawesome("envelope")`  [fabricio_almeidasilva@hotmail.com](mailto:fabricio_almeidasilva@hotmail.com)
 
