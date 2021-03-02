@@ -227,7 +227,7 @@ According to [Jenny Brian's convention](http://www2.stat.duke.edu/~rcs46/lecture
 
 - Use ISO 8601 convention for dates (YYYY-MM-DD)
 
-.center[`r emo::ji("prohibited")`  2021-02-20_number_of_samples.png  `r emo::ji("check")`  02-20-2021_number_of_samples.png]
+.center[`r emo::ji("prohibited")`  02-20-2021_number_of_samples.png `r emo::ji("check")`  2021-02-20_number_of_samples.png]
 
 
 - Left-pad numbers with zeroes
@@ -368,7 +368,7 @@ class: sydney-yellow, middle, center
 
 `r icon::fontawesome("github")`  [almeidasilvaf](https://github.com/almeidasilvaf/)
 
-`r icon::fontawesome("globe")`  [Personal website](https://almeidasilvaf.github.io/almeida-silvaf/)
+`r icon::fontawesome("globe")`  [almeidasilvaf.github.io/almeida-silvaf](https://almeidasilvaf.github.io/almeida-silvaf/)
 
 `r icon::fontawesome("envelope")`  [fabricio_almeidasilva@hotmail.com](mailto:fabricio_almeidasilva@hotmail.com)
 
