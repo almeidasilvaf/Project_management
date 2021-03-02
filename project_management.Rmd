@@ -21,6 +21,34 @@ output:
         scroll: false
 ---
 
+```{r share_again, echo=FALSE}
+xaringanExtra::use_share_again()
+```
+
+```{r metathis, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_name("github-repo" = "almeidasilvaf/Project_management") %>% 
+  meta_social(
+    title = "Project management in bioinformatics",
+    description = paste(
+      "Best practices for handling bioinformatics projects",
+      "February 2021"
+    ),
+    url = "https://almeidasilvaf.github.io/Project_management/project_management.html",
+    image = "https://almeidasilvaf.github.io/Project_management/cover.png",
+    image_alt = paste(
+      "Title slide of Project management in bioinformatics,", 
+      "presented in February 2021 by Fabrício Almeida-Silva"
+    ),
+    og_type = "website",
+    og_author = "Fabrício Almeida-Silva",
+    twitter_card_type = "summary_large_image",
+    twitter_creator = "@almeidasilvaf",
+    twitter_site = "@almeidasilvaf"
+  )
+```
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   echo = FALSE, warning = FALSE, message = FALSE,
